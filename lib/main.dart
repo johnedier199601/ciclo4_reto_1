@@ -57,6 +57,7 @@ final textDestino = TextEditingController();
 
 String opcion_1 = "USD";
 String opcion_2 = "COP";
+String opcion_3 = "YEN";
 
 int USD_COP = 4974;
 int EUR_COP = 4966;
